@@ -3,3 +3,4 @@ C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\bin\Debug\ModBus_Libra
 C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Debug\ModBus_Library.csproj.CoreCompileInputs.cache
 C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Debug\ModBus_Library.dll
 C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Debug\ModBus_Library.pdb
+C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Debug\ModBus_Library.csprojAssemblyReference.cache

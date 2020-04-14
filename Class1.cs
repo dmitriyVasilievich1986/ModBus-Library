@@ -72,7 +72,7 @@ namespace ModBus_Library
 
         public Exception Open()
         {
-            if(!Port.IsOpen)
+            if (!Port.IsOpen)
             {
                 try
                 {
@@ -152,9 +152,9 @@ namespace ModBus_Library
         {
             Exchange = true;
 
-            if (Port.BytesToRead < Receive_Length)  { return; }
+            if (Port.BytesToRead < Receive_Length || Port.BytesToRead < 3)   { return; }
 
-            Data_Receive = new byte[Receive_Length];
+            Data_Receive = new byte[Receive_Length > 3 ? Receive_Length : 8];
             try
             {
                 Port.Read(Data_Receive, 0, Receive_Length);

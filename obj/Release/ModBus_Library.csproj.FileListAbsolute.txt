@@ -1,0 +1,5 @@
+C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\bin\Release\ModBus_Library.dll
+C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\bin\Release\ModBus_Library.pdb
+C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Release\ModBus_Library.csproj.CoreCompileInputs.cache
+C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Release\ModBus_Library.dll
+C:\Users\d.shcherbachenya\Desktop\projects\ModBus_Library\obj\Release\ModBus_Library.pdb
